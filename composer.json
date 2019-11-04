@@ -1,0 +1,22 @@
+{
+    "name": "askinss/yii2-server-stat",
+    "description": "Statistics and Metrics of OS",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akinsola akinwale",
+            "email": "faskinss@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+    "psr-4": {"askinss\\serverStat\\": ""}
+  }
+}
